@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Miranda;I'm+20+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Desenvolvedor Full Stack com foco em back-end, atuando no desenvolvimento e integração de APIs e soluções escaláveis. Experiência com serviços AWS e Docker, aplicando práticas de cloud computing no ambiente corporativo. Atuação com metodologias ágeis, com entregas contínuas e foco em performance e resultados.
+Full Stack Developer with a back-end focus, working on the development and integration of APIs and scalable solutions. Experienced with AWS services and Docker, applying cloud computing practices in corporate environments. Skilled in agile methodologies, with continuous delivery and a strong focus on performance and results.
 
 <br/>
 
