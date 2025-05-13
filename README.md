@@ -22,9 +22,10 @@ Full Stack Developer with a back-end focus, working on the development and integ
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Guilherme Miranda LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:guilhermemiranda419@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
 
 <br/>
 
