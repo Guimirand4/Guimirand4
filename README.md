@@ -21,6 +21,9 @@ Full Stack Developer with a back-end focus, working on the development and integ
   <a href="https://www.linkedin.com/in/gui-lherme/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Guilherme Miranda LinkedIn" height="30" width="40" />
   </a>
+  <a href="mailto:guilhermemiranda419@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 <br/>
