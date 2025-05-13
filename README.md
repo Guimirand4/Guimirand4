@@ -23,7 +23,6 @@ Full Stack Developer with a back-end focus, working on the development and integ
   </a>
 </p>
 
-
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
