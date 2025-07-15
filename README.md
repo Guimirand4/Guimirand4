@@ -12,7 +12,7 @@ Full Stack Developer with a back-end focus, working on the development and integ
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guimirand4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guimirand4 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimirand4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guimirand4&&theme=tokyonight" alt="Guimirand4" />
-  <img src="https://github.com/ricardomatias/profile3d/raw/master/demo/profile3d_example.png" />
+  <img src="https://github.com/Guimirand4/profile3d/raw/master/demo/profile3d_example.png" />
 </div>
 
 <br/>
